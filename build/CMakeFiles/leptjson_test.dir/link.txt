@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9   -std=c++11 -g   CMakeFiles/leptjson_test.dir/test.cpp.o  -o leptjson_test  -Wl,-rpath,/home/qqh/project/Cplus/myjson/build liblept_json.so 

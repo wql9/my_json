@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/qqh/project/Cplus/myjson/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9     -std=c++11 -g   -o CMakeFiles/leptjson_test.dir/test.cpp.o -c /home/qqh/project/Cplus/myjson/test.cpp",
+  "file": "/home/qqh/project/Cplus/myjson/test.cpp"
+},
+{
+  "directory": "/home/qqh/project/Cplus/myjson/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -Dlept_json_EXPORTS   -std=c++11 -g -fPIC   -o CMakeFiles/lept_json.dir/lept_context.cpp.o -c /home/qqh/project/Cplus/myjson/lept_context.cpp",
+  "file": "/home/qqh/project/Cplus/myjson/lept_context.cpp"
+},
+{
+  "directory": "/home/qqh/project/Cplus/myjson/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -Dlept_json_EXPORTS   -std=c++11 -g -fPIC   -o CMakeFiles/lept_json.dir/lept_parse.cpp.o -c /home/qqh/project/Cplus/myjson/lept_parse.cpp",
+  "file": "/home/qqh/project/Cplus/myjson/lept_parse.cpp"
+},
+{
+  "directory": "/home/qqh/project/Cplus/myjson/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -Dlept_json_EXPORTS   -std=c++11 -g -fPIC   -o CMakeFiles/lept_json.dir/lept_value.cpp.o -c /home/qqh/project/Cplus/myjson/lept_value.cpp",
+  "file": "/home/qqh/project/Cplus/myjson/lept_value.cpp"
+},
+{
+  "directory": "/home/qqh/project/Cplus/myjson/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -Dlept_json_EXPORTS   -std=c++11 -g -fPIC   -o CMakeFiles/lept_json.dir/lept_stringify.cpp.o -c /home/qqh/project/Cplus/myjson/lept_stringify.cpp",
+  "file": "/home/qqh/project/Cplus/myjson/lept_stringify.cpp"
+}
+]
